@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+    <!-- <script src="https://cdn.bootcss.com/require.js/2.3.5/require.js"></script> -->
+    <script src="https://cdn.bootcss.com/babel-core/6.1.19/browser.js"></script>
+</head>
+
+<body>
+    <button id="btn">点击</button>
+
+    <script sr="/public/lib/tapable.js" type="text/babel"></script>
+    <script src="/public/lib/db.js" type="text/babel"></script>
+    <script type="text/babel">
+        console.log(DB); var db = new DB(); $('#btn').click(function() { // $.ajax({ // url: '/get', // method: 'get', // success: function(data) { // console.log(data); // } // }) db.get({ url: '/get' }) })
+    </script>
+</body>
+
+</html>

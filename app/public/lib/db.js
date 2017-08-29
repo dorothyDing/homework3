@@ -1,4 +1,5 @@
-const Tapable = require('tapable')
+// const Tapable = require('./tapable')
+import Tapable from './tapable';
 
 class DB extends Tapable {
     constructor(options) {
@@ -37,4 +38,5 @@ class DB extends Tapable {
 }
 
 
-module.exports = DB
+// module.exports = DB
+export { DB }

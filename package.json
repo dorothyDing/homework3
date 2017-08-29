@@ -1,4 +1,5 @@
 {
+    "name": "h3",
     "scripts": {
         "dev": "egg-bin dev"
     },

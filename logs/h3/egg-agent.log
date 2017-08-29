@@ -1,0 +1,26 @@
+2017-08-29 20:57:43,939 INFO 11080 [egg:logger] init all loggers with options: {"dir":"F:\\stuq\\homework3\\logs\\h3","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"h3-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-08-29 20:57:44,041 INFO 11080 [egg-watcher:agent] watcher start success
+2017-08-29 21:01:12,084 WARN 11080 [agent:development] reload worker because F:\stuq\homework3\app\router.js change
+2017-08-29 21:01:13,951 WARN 11080 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-29 21:01:53,128 WARN 11080 [agent:development] reload worker because F:\stuq\homework3\app\controller\home.js change
+2017-08-29 21:01:54,905 WARN 11080 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-29 21:01:55,237 WARN 11080 [agent:development] reload worker because F:\stuq\homework3\app\controller\get.js change
+2017-08-29 21:01:56,666 WARN 11080 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-29 21:02:13,381 WARN 11080 [agent:development] reload worker because F:\stuq\homework3\app\controller\get.js change
+2017-08-29 21:02:14,741 WARN 11080 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-29 21:02:22,261 WARN 11080 [agent:development] reload worker because F:\stuq\homework3\app\controller\get.js change
+2017-08-29 21:02:30,548 WARN 11080 [agent:development] reload worker because F:\stuq\homework3\app\controller\get.js change
+2017-08-29 21:02:34,970 WARN 11080 [agent:development] reload worker because F:\stuq\homework3\app\controller\get.js change
+2017-08-29 21:03:00,203 WARN 11080 [agent:development] reload worker because F:\stuq\homework3\app\controller\get.js change
+2017-08-29 21:03:33,601 INFO 9128 [egg:logger] init all loggers with options: {"dir":"F:\\stuq\\homework3\\logs\\h3","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"h3-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-08-29 21:03:33,699 INFO 9128 [egg-watcher:agent] watcher start success
+2017-08-29 21:06:28,211 INFO 5788 [egg:logger] init all loggers with options: {"dir":"F:\\stuq\\homework3\\logs\\h3","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"h3-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-08-29 21:06:28,302 INFO 5788 [egg-watcher:agent] watcher start success
+2017-08-29 21:17:01,985 INFO 13516 [egg:logger] init all loggers with options: {"dir":"F:\\stuq\\homework3\\logs\\h3","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"h3-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-08-29 21:17:02,172 INFO 13516 [egg-watcher:agent] watcher start success
+2017-08-29 21:42:49,845 INFO 7640 [egg:logger] init all loggers with options: {"dir":"F:\\stuq\\homework3\\logs\\h3","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"h3-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-08-29 21:42:49,951 INFO 7640 [egg-watcher:agent] watcher start success
+2017-08-29 21:48:16,603 WARN 7640 [agent:development] reload worker because F:\stuq\homework3\app\router.js change
+2017-08-29 21:48:18,288 WARN 7640 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-08-29 21:48:43,680 INFO 10524 [egg:logger] init all loggers with options: {"dir":"F:\\stuq\\homework3\\logs\\h3","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"h3-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-08-29 21:48:43,775 INFO 10524 [egg-watcher:agent] watcher start success

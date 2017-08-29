@@ -1,6 +1,7 @@
+// app/controller/home.js
 module.exports = app => {
-    class HomeController extends app.Controller { 
-		* index() {
+    class HomeController extends app.Controller { *
+        index() {
             this.ctx.body = 'Hello world';
         }
     }

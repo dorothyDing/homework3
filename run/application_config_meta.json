@@ -1,0 +1,220 @@
+{
+  "keys": "F:\\stuq\\homework3\\config\\config.default.js",
+  "onerror": {
+    "errorPageUrl": "F:\\stuq\\homework3\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "F:\\stuq\\homework3\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "F:\\stuq\\homework3\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "F:\\stuq\\homework3\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "F:\\stuq\\homework3\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "F:\\stuq\\homework3\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "F:\\stuq\\homework3\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "F:\\stuq\\homework3\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "F:\\stuq\\homework3\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "F:\\stuq\\homework3\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "F:\\stuq\\homework3\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "F:\\stuq\\homework3\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "F:\\stuq\\homework3\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "F:\\stuq\\homework3\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "F:\\stuq\\homework3\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "F:\\stuq\\homework3\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "F:\\stuq\\homework3\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "F:\\stuq\\homework3\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "F:\\stuq\\homework3\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "F:\\stuq\\homework3\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "F:\\stuq\\homework3\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "F:\\stuq\\homework3\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "F:\\stuq\\homework3\\node_modules\\egg-multipart\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "F:\\stuq\\homework3\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "F:\\stuq\\homework3\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "F:\\stuq\\homework3\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "F:\\stuq\\homework3\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "F:\\stuq\\homework3\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "F:\\stuq\\homework3\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "F:\\stuq\\homework3\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "F:\\stuq\\homework3\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "F:\\stuq\\homework3\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "F:\\stuq\\homework3\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "F:\\stuq\\homework3\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "F:\\stuq\\homework3\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "F:\\stuq\\homework3\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "F:\\stuq\\homework3\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "F:\\stuq\\homework3\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "F:\\stuq\\homework3\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "F:\\stuq\\homework3\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "F:\\stuq\\homework3\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "F:\\stuq\\homework3\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "F:\\stuq\\homework3\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "view": {
+    "root": "F:\\stuq\\homework3\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "F:\\stuq\\homework3\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "F:\\stuq\\homework3\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "F:\\stuq\\homework3\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "F:\\stuq\\homework3\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+  "name": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+      "karma": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+      "karma-chrome-launcher": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+      "karma-mocha": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+      "karma-requirejs": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+      "mocha": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+      "requirejs": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+      "sinon": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+      "webpack": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "strict": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+      "depth": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "env": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "level": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.local.js"
+    }
+  },
+  "httpclient": {
+    "enableDNSCache": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxAge": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "coreMiddleware": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+      "port": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "F:\\stuq\\homework3\\node_modules\\egg\\config\\config.default.js"
+    }
+  }
+}
